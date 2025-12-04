@@ -64,5 +64,5 @@ This project is an **Arduino-based attendance management interface** that allows
 
 
 
-## 📁 Repository Contents
+
 
